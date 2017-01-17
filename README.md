@@ -2,4 +2,5 @@
 
 This repo is for all my course files completed through teamtreehouse.com
 
-Checkout my Treehouse profile - weblink
+Also checkout my Treehouse profile [here](https://www.google.com).
+
